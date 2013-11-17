@@ -1,0 +1,15 @@
+{
+        "schema_version": "1.0",
+        "name" : "wygwam_autosave",
+        "label": "Wygwam Autosave",
+        "version": "0.1",
+        "types": ["extension"],
+        "paths": {
+                "system": [
+                        "system/expressionengine/third_party/wygwam_autosave"
+                ],
+                "themes": [
+                        "themes/third_party/wygwam_autosave"
+                ]
+        }
+}
